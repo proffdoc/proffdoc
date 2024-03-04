@@ -1,5 +1,4 @@
 <h1 align=center>Hi 👋, I'm Javidan Hasanzade</h1>
-<h3 align=center>A passionate frontend developer from Azerbaijan</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/proffdoc?tab=repositories](https://github.com/proffdoc?tab=repositories)
 
